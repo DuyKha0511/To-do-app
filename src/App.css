@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+
+.mt-15 {
+  margin-top: 15px;
+}
+
+.ml-5 {
+  margin-left: 5px;
+}
+
+.mr-5 {
+  margin-right: 5px;
+}
+
+.pr-5 {
+  padding-right: 5px;
+}
+
+.text-right {
+  float: right;
+  transform: translateY(-100%);
+  cursor: pointer;
+}
+
+.text-right:hover {
+  color: rgb(201, 48, 44);
+}
